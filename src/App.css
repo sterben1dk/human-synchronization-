@@ -110,12 +110,12 @@ h1 {
 
 .copyright {
   position: absolute;
-  bottom: 10px;
+  bottom: 0px;
   left: 50%;
   transform: translateX(-50%);
 
- font-size: 6px;
-color: rgba(255,255,255,0.25);
+  font-size: 8px;
+  color: rgba(255,255,255,0.4);
 
   text-align: center;
   line-height: 1.3;
