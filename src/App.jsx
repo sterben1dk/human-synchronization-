@@ -694,6 +694,12 @@ if (currentUnit.intro) {
           {currentUnit.text}
         </p>
 
+        <p className="copyright">
+  본 하이퍼 디포엠의 모든 권리는 창작자인 윤준서에게 있습니다
+  <br />
+  (Ⓒ 윤준서, 2026)
+</p>
+
       </div>
     </div>
   );
